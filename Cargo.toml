@@ -1,0 +1,6 @@
+[package]
+name = "ravenous"
+version = "0.1.0"
+authors = ["Michael Sproul <micsproul@gmail.com>"]
+
+[dependencies]
